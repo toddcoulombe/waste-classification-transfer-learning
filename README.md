@@ -1,7 +1,7 @@
 # Waste Classification using Transfer Learning
 
 ## Overview
-This project uses deep learning and transfer learning to classify waste images into categories using a pre-trained model.
+This project uses deep learning and transfer learning to classify waste images into recyclable and organic categories using a pre-trained CNN model.
 
 ## What I did
 - Used a pre-trained CNN for feature extraction
@@ -12,6 +12,15 @@ This project uses deep learning and transfer learning to classify waste images i
 ## Results
 - Achieved ~90% accuracy
 - Improved performance through fine-tuning vs feature extraction
+
+## Real-World Impact
+
+This model could be used in waste management systems to automatically classify recyclable vs non-recyclable materials, improving sorting efficiency and reducing human error.
+
+Potential applications include:
+- Smart recycling bins
+- Waste sorting facilities
+- Environmental sustainability initiatives
 
 ## Key Skills
 - Transfer Learning
@@ -38,4 +47,6 @@ This project was completed as part of the IBM AI Engineering Professional Certif
 ### Model Predictions
 ![Feature Extraction Prediction](extract_features_model.png)
 ![Fine-Tuned Prediction](finetuned_model.png)
+
+_model.png)
 
