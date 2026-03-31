@@ -48,5 +48,8 @@ This project was completed as part of the IBM AI Engineering Professional Certif
 ![Feature Extraction Prediction](extract_features_model.png)
 ![Fine-Tuned Prediction](finetuned_model.png)
 
-_model.png)
+## How to Run This Project
 
+1. Clone the repository  
+2. Install dependencies (TensorFlow, NumPy, Matplotlib)  
+3. Run the notebook: Final Proj-Classify Waste Products Using TL.ipynb  
