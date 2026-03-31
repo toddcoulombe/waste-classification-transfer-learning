@@ -29,12 +29,7 @@ Potential applications include:
 - Model Evaluation
 - TensorFlow / Keras
 
-## Notes
-This project was completed as part of the IBM AI Engineering Professional Certificate.
-
-## Results
-
-## Results
+## Visual Results
 
 ### Training Performance
 ![Loss Curve](loss_curve.png)
