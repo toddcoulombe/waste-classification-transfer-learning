@@ -1,3 +1,5 @@
+# Waste Classification using Transfer Learning
+
 ## Overview
 This project uses deep learning and transfer learning to classify waste images into categories using a pre-trained model.
 
@@ -23,10 +25,17 @@ This project was completed as part of the IBM AI Engineering Professional Certif
 
 ## Results
 
+## Results
+
 ### Training Performance
-![Loss Curve](images/loss_curve.png)
-![Accuracy Curve](images/accuracy_curve.png)
+![Loss Curve](loss_curve.png)
+![Accuracy Curve](accuracy_curve.png)
+
+### Training Process
+![Training Output](training_output.png)
+![Fine-Tuning Output](fine_tuning_training_output.png)
 
 ### Model Predictions
-![Feature Extraction Prediction](images/prediction_feature_extraction.png)
-![Fine-Tuned Prediction](images/prediction_fine_tuned.png)
+![Feature Extraction Prediction](extract_features_model.png)
+![Fine-Tuned Prediction](finetuned_model.png)
+
