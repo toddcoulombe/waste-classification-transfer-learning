@@ -48,3 +48,6 @@ Potential applications include:
 1. Clone the repository  
 2. Install dependencies (TensorFlow, NumPy, Matplotlib)  
 3. Run the notebook: Final Proj-Classify Waste Products Using TL.ipynb  
+
+## Notes
+This project was completed as part of the IBM AI Engineering Professional Certificate.
